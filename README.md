@@ -19,14 +19,14 @@ Unreleased Alpha 0.0.1
 +New How to Play Menu.  
 +Large window size.  
 
-#Todo
+# Todo
 
 Unreleased Alpha 0.0.1
 
-Add Torch.  
-Add Torch Recipe.  
+*Add Torch.  
+*Add Torch Recipe.  
 
-Future
+## Future
 
 Save and Load System.  
 Screen Capture.  
