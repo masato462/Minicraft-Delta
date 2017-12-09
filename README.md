@@ -6,8 +6,12 @@ Open Source. Coming Soon?
 ![Minicraft-Delta](https://github.com/masato462/Minicraft-Delta/blob/master/Minicraft-Delta_paused_menu.png "Minicraft-Delta")
 
 # Minicraft Delta Alpha
+It's about Minicraft Delta under development.
 
-Unreleased Alpha 0.0.1
+## Minicraft Delta alpha version update history
+Not all the change history is listed.
+
+### Unreleased Alpha 0.0.1
 
 +Added Wood Log.  
 +Added charcoal.  
@@ -19,14 +23,14 @@ Unreleased Alpha 0.0.1
 +New How to Play Menu.  
 +Large window size.  
 
-# Todo
+## Todo
 
 Unreleased Alpha 0.0.1
 
 *Add Torch.  
 *Add Torch Recipe.  
 
-## Future
+### Future
 
 Save and Load System.  
 Screen Capture.  
