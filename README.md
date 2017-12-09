@@ -1,9 +1,9 @@
 # Minicraft-Delta
-Minicraft Delta is a Mod, based on Minicraft developed by Markus "Notch" Persson in 22 'ND Ludum Dare Competition in December 2011 in 48 hours.  Add new items, new menus etc.  
+Minicraft Delta is a Mod, based on Minicraft developed by Markus "Notch" Persson in 22'ND Ludum Dare Competition in December 2011 in 48 hours.  Add new items, new menus etc.  
 
 Open Source. Coming Soon?
 
-https://github.com/masato462/Minicraft-Delta/blob/master/Minicraft-Delta_paused_menu.png
+![Minicraft-Delta](https://github.com/masato462/Minicraft-Delta/blob/master/Minicraft-Delta_paused_menu.png "Minicraft-Delta")
 
 # Minicraft Delta Alpha
 
