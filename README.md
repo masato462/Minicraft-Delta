@@ -11,7 +11,12 @@ It's about Minicraft Delta under development.
 ## Minicraft Delta alpha version update history
 Not all the change history is listed.
 
-### Unreleased Alpha 0.0.1
+### Alpha 0.0.2
+
++Added New Main Menu.
++New HUD.
+
+### Alpha 0.0.1
 
 +Added Wood Log.  
 +Added charcoal.  
@@ -21,12 +26,13 @@ Not all the change history is listed.
 +New Main Menu.  
 +New About Menu.  
 +New How to Play Menu.  
-+Large window size.  
++Large window size. 
 
 ## Todo
 
-Unreleased Alpha 0.0.1
+Alpha 0.x
 
+*Make&Add Wood log Sprite.
 *Add Torch.  
 *Add Torch Recipe.  
 
