@@ -13,10 +13,10 @@ Not all the change history is listed.
 
 ### Alpha 0.1.2 - 2018/02/07
 
-+Added New Main Menu. 
-+New HUD. 
-+Added Wood Stick. 
-+Added Changelog Menu. 
++Added New Main Menu.  
++New HUD.  
++Added Wood Stick.  
++Added Changelog Menu.  
 
 ### Alpha 0.1.1 - Unreleased.
 
