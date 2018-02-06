@@ -11,14 +11,14 @@ It's about Minicraft Delta under development.
 ## Minicraft Delta alpha version update history
 Not all the change history is listed.
 
-### Alpha 0.1.2 - 2018/02/07
+### Alpha 0.1.1 - 2018/02/07
 
 +Added New Main Menu.  
 +New HUD.  
 +Added Wood Stick.  
 +Added Changelog Menu.  
 
-### Alpha 0.1.1 - Unreleased.
+### Alpha 0.1.0 - Unreleased.
 
 +Added Wood Log.  
 +Added charcoal.  
